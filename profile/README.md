@@ -1,4 +1,4 @@
-<img src="profile/images/LMS_logo.png" width="400">
+<img src="images/LMS_logo.png" width="400">
 
 :octocat: Over 10 years of open science on GitHub
 :microscope: Integrative advice and assistance with data analysis
